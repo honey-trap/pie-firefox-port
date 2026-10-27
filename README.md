@@ -1,8 +1,8 @@
 # Pie for Firefox-based browsers
 
 An unofficial port of Pie Adblock 1.33.9 for Firefox-based desktop browsers, maintained by
-[honey-trap](https://github.com/honey-trap) and
-[AlixSalba](https://github.com/AlixSalba).
+[honey-trap](https://github.com/honey-trap) ([bunnyspark.com](https://bunnyspark.com)) and
+[AlixSalba](https://github.com/AlixSalba) ([usedneedle.com](https://usedneedle.com)).
 
 The popup and core blocking features work in our Firefox tests. Testing in Zen Browser
 has also shown working Twitch playback with no ads observed. This is still an
@@ -10,7 +10,7 @@ experimental build, and it is not affiliated with Pie or Mozilla.
 
 ## Before you install
 
-Download the `.xpi` file from the latest GitHub release under **Assets**. Use it
+Download the `.xpi` file from the [latest release](https://github.com/honey-trap/pie-firefox-port/releases/latest) under **Assets**. Use it
 for either installation method below. You do not need Python or any build tools
 to install the extension.
 
