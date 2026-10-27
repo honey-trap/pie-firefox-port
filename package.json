@@ -1,0 +1,14 @@
+{
+  "name": "pie-firefox-port-tools",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local build and validation tools for an unofficial Pie Firefox port",
+  "scripts": {
+    "check": "node --check firefox-compat.js",
+    "lint:extension": "web-ext lint --source-dir firefox --no-config-discovery",
+    "lint:json": "web-ext lint --source-dir firefox --no-config-discovery --output json"
+  },
+  "devDependencies": {
+    "web-ext": "10.8.0"
+  }
+}

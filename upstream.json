@@ -1,0 +1,8 @@
+{
+  "name": "Pie Adblock",
+  "version": "1.33.9",
+  "chrome_extension_id": "jpkfgepcmmchgfbjblnodjhldacghenp",
+  "sha256": "7ba1ab6266b643c8200945d4d6933f3637500c79e0903beb41c10fa3a4255e50",
+  "store_url": "https://chromewebstore.google.com/detail/jpkfgepcmmchgfbjblnodjhldacghenp",
+  "download_url": "https://clients2.google.com/service/update2/crx?response=redirect&prodversion=144.0.0.0&acceptformat=crx2,crx3&x=id%3Djpkfgepcmmchgfbjblnodjhldacghenp%26uc"
+}
